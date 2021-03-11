@@ -37,3 +37,13 @@
   ```
 - Criar `babel.config.js`
 - Teste: `yarn babel src/index.jsx --out-file dist/bundle.js`
+### Configurando Webpack
+- Webpack
+  ```
+  yarn add webpack webpack-cli -D
+  ```
+- Criar `webpack.config.js`
+- Babel loader
+  ```
+  yarn add babel-loader -D
+  ```
