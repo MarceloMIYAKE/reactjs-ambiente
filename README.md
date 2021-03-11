@@ -61,3 +61,16 @@
   ```
   yarn webpack serve
   ```
+### Ambiente dev e produção
+- Cross Env
+  ```
+  yarn add cross-env -D
+  ```
+- Executar em ambiente de dev
+  ```
+  yarn dev
+  ```
+- Executar em ambiente de produção
+  ```
+  yarn build
+  ```
