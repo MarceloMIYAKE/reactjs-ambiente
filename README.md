@@ -83,3 +83,8 @@
   ```
   yarn add style-loader css-loader -D
   ```
+### Utilizando SASS
+- SASS loader & Node SASS
+  ```
+  yarn add sass-loader node-sass -D
+  ```
