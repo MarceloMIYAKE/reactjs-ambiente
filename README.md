@@ -52,3 +52,12 @@
   ```
   yarn add html-webpack-plugin -D
   ```
+### Webpack Dev Server
+- Webpack Dev Server
+  ```
+  yarn add webpack-dev-server -D
+  ```
+- Executar
+  ```
+  yarn webpack serve
+  ```
