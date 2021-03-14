@@ -88,3 +88,10 @@
   ```
   yarn add sass-loader node-sass -D
   ```
+
+## Conceitos importantes
+### Primeiro component React
+- Criar diretório 'components'
+  ```
+  mkdir `src/components`
+  ```
